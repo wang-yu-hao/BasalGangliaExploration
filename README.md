@@ -1,4 +1,4 @@
-This repository supports the article "Dopamine encoding of novelty facilitates efficient uncertainty-driven exploration".
+This repository supports the article "[Dopamine encoding of novelty facilitates efficient uncertainty-driven exploration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011516)".
 
 The repository consists of three sections, each contained in one of the sub-folders in the root directory. The first contains neural data (in vivo electrophysiological recording) from two non-human primate subjects, in MATLAB .mat format, with analysis code in .m format. The second contains behavioral data from two experiments with 45 and 44 human participants, in .mat format with analysis code in .m format. The third are model simulations, with a Jupyter Notebook file (.ipynb) to execute simulations, and  function definitions in .py format. 
 
